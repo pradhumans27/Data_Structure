@@ -1,6 +1,8 @@
 /* The link of the problem is given below:-
 https://leetcode.com/problems/reverse-linked-list/ 
 */
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
