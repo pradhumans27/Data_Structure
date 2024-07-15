@@ -9,8 +9,7 @@ public:
         for(int i = 0; i < k; i++){
             if(cursor == nullptr) return head;
             cursor = cursor->next;
-        }
-             ListNode* prev = NULL;
+        }              ListNode* prev = NULL;
               ListNode* forward  = NULL;
                ListNode* curr = head;
                int count = 0;
